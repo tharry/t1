@@ -9,9 +9,9 @@ module.exports = (grunt) ->
         dest: 'lib/',
         ext: '.js'
     mochaTest:
-      options:        
+      options:
         reporter: 'spec'
-        require: ['coffee-script/register', 'coffee-coverage/register-istanbul']
+        require: ['coffee-script/register', 'coffee-coverage-loader']
       src: ['test/*.coffee']
     shell:
       istanbul:
