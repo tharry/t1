@@ -1,4 +1,4 @@
-# 11 is nothing more than a template
+# 11 is nothing more than a coffee-script node project template
 
 t1 is a project template that might be or might be not of any use for anyone.
 What is set up in t1:
