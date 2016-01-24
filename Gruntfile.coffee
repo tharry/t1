@@ -15,7 +15,8 @@ module.exports = (grunt) ->
       src: ['test/*.coffee']
     shell:
       istanbul:
-        command: 'node_modules/.bin/istanbul report && see coverage/lcov-report/index.html'
+        command: 'node_modules/.bin/istanbul report && '+
+          'see coverage/lcov-report/index.html'
 
 
   grunt.loadNpmTasks 'grunt-contrib-coffee'

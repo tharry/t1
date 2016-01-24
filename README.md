@@ -1,5 +1,6 @@
 # 11 is nothing more than a coffee-script node project template
 
+[![Build Status](https://travis-ci.org/tharry/t1.svg?branch=master)](https://travis-ci.org/tharry/t1)
 [![Code Climate](https://codeclimate.com/github/tharry/t1/badges/gpa.svg)](https://codeclimate.com/github/tharry/t1)
 [![Test Coverage](https://codeclimate.com/github/tharry/t1/badges/coverage.svg)](https://codeclimate.com/github/tharry/t1/coverage)
 
